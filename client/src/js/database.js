@@ -52,7 +52,7 @@ export const getDb = async () => {
 
   // Get confirmation of the request.
   const result = await request;
-  return result.content;
+  return result?.content;
 };
 
 // Start the database.
