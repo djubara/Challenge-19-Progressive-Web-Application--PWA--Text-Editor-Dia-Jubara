@@ -62,9 +62,13 @@ THEN I should have proper build scripts for a webpack application
 
 ![image](./assets/JATE.png)
 
-#
+> ## Demo Gif
 
 ![image](./assets/00-demo.gif)
+
+> ## Render Logs
+
+![image](./Assets/render-logs.png)
 
   > ## Installation
 
